@@ -1,0 +1,21 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "?"]
+[White "meppy17"]
+[Black "Gustav-Rasmussen"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1044"]
+[BlackElo "1052"]
+[Termination "Gustav-Rasmussen won by checkmate"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Nc3 Bg4 5. d4 Nc6 6. h3 Bxf3 7. Qxf3 Nxd4 8.
+Qd3 e5 9. Be3 Bc5 10. O-O-O Ne7 11. Bxd4 Bxd4 12. Qb5+ Nc6 13. Nxd5 O-O 14. f3
+Rc8 15. Bc4 Qa5 16. Qxb7 Rb8 17. Qxc6 Bxb2+ 18. Kb1 Bd4+ 19. Kc1 Qa3+ 20. Kd2
+Kh8 21. Rde1 Rfc8 22. Qd7 Rxc4 23. Qxf7 Qxa2 24. Rc1 Qa5+ 25. Kd1 Rd8 26. Ne7
+Bb2+ 27. Nd5 Qxd5+ 28. Qxd5 Rxd5+ 29. Ke2 Bxc1 30. Rxc1 Rdc5 31. Kd1 g6 32. c3
+Rxc3 33. Rxc3 Rxc3 34. Kd2 Rc4 35. Kd3 Rd4+ 36. Ke3 Kg7 37. g4 Kf6 38. h4 a5 39.
+g5+ Kf5 40. Kf2 Rxh4 41. Kg3 Rf4 42. Kf2 Kxg5 43. Kg3 Kf5 44. Kg2 a4 45. Kg3 a3
+46. Kg2 a2 47. Kg3 a1=Q 48. Kg2 Qb2+ 49. Kg3 Qe2 50. Kh3 Qxf3+ 51. Kh2 Qe2+ 52.
+Kg3 Qe3+ 53. Kg2 Rf2+ 54. Kg1 Qe1# 0-1

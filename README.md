@@ -3,4 +3,7 @@
 
 # chess-explorer
 
-display and analyze historical chess games
+display and analyze historical chess games.
+
+Currently all games stem from chess.com,
+lichess.com might be added in the future.

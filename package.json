@@ -3,6 +3,7 @@
     "@types/chart.js": "^2.9.37",
     "chart.js": "^4.3.3",
     "chartjs-adapter-moment": "^1.0.1",
+    "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
     "papaparse": "^5.4.1"
   },

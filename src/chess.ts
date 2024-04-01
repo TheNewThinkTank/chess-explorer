@@ -1,13 +1,13 @@
-// Import the necessary libraries
 import * as chessboard from 'chessboardjs'
+import * as dotenv from 'dotenv'
 
-// Define the API endpoint and your API token
+dotenv.config();
+
 const apiEndpoint = 'https://api.chess.com/pub/player'
-const apiToken = '<your-api-token>'
+const apiToken = process.env.API_TOKEN
 
-// Define the username and game ID for the game you want to render
-const username = '<username>'
-const gameId = '<game-id>'
+const username = process.env.USERNAME
+const gameId = process.env.GAME_ID
 
 // Retrieve the game data from the API
 const response = await fetch(`${apiEndpoint}/${username}/games/archives?token=${apiToken}`)

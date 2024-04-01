@@ -1,7 +1,7 @@
 import * as chessboard from 'chessboardjs'
 import * as dotenv from 'dotenv'
 
-dotenv.config();
+dotenv.config()
 
 const apiEndpoint = 'https://api.chess.com/pub/player'
 const apiToken = process.env.API_TOKEN

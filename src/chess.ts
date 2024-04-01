@@ -26,7 +26,7 @@ const blackPlayer = gameData.black.username
 const result = gameData.result
 
 // Render the game using chessboard.js
-const board = chessboard('board', {position: 'start'})
+const board = chessboard('board', { position: 'start' })
 for (let i = 0; i < moves.length; i++) {
   const move = moves[i]
   board.move(move)

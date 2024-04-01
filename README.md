@@ -10,6 +10,8 @@ lichess.com might be added in the future.
 
 ## Upcoming
 
+[chess.com API](https://www.chess.com/news/view/published-data-api)
+
 - traps
 - puzzles
 - tactics

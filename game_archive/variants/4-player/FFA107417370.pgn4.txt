@@ -1,0 +1,62 @@
+[GameNr "107417370"]
+[TimeControl "1+7"]
+[Variant "FFA"]
+[RuleVariants "DeadKingWalking EnPassant PromoteTo=D"]
+[StartFen4 "4PC"]
+[Red "akmal1306"]
+[RedElo "1362"]
+[Blue "Gustav-Rasmussen"]
+[BlueElo "1513"]
+[Yellow "XCYBS"]
+[YellowElo "1727"]
+[Green "Wangzainnai"]
+[GreenElo "2050"]
+[Result "akmal1306: 2 - Gustav-Rasmussen: 57 - XCYBS: 6 - Wangzainnai: 45"]
+[Termination "Checkmate"]
+[Site "www.chess.com/variants/4-player-chess/game/107417370"]
+[Date "Thu Aug 20 2026 13:11:53 GMT+0000 (Coordinated Universal Time)"]
+[CurrentMove "155"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m4-k4
+2. f2-f3 .. Ba6-b5 .. h11-h10 .. k4-j4
+3. Nj1-k3 .. Na5-c6 .. h10-h9 .. Nn10-l9
+4. g4-g5 .. O-O .. h9-h8 .. m8-l8
+5. g5-g6 .. Ra6-a7 .. h8-h7=D .. j4-i4
+6. g6xQh7 .. b8-c8 .. Qh14xh7 .. i4-h4
+7. h2-h3 .. b7-d7 .. i13-i12 .. Nn5-l6
+8. Bi1-h2 .. Ba9-c7 .. Qh7-j9 .. m10-l10
+9. O-O .. Na10-b8 .. Qj9-h11 .. m5-l5
+10. i2-i3 .. b10-c10 .. d13-d11 .. Nl6-k4
+11. i3xh4 .. Qa8-b7 .. d11xc10 .. Nk4-l6
+12. h4-h5 .. b11xc10 .. Qh11-h14 .. m11-k11
+13. Ri1-i5 .. Ra11-b11 .. Ne14-f12 .. Rn4-k4
+14. Kj1-i2T .. Ra7-a11 .. Nf12-e10 .. l5-k5
+15. Ki2-i1 .. Qb7-a7 .. g13-g11 .. k11-j11
+16. Ki1xj2 .. b4-d4 .. g11-g10 .. j11xi12
+17. Kj2-k1 .. Ka5-a6 .. Nj14xi12 .. Nl9-j10
+18. Kk1-j2 .. Rb11xRn11 .. Bf14xNj10 .. Qn7-m8
+19. Kj2-i1 .. Ka6-b7 .. g10-g9 .. Rk4-g4
+20. Ki1-h1 .. Qa7-a4 .. Qh14xh5 .. Rg4-g8
+21. Kh1-i1 .. Rn11-b11 .. Qh5-h7 .. Rg8-j8
+22. Ki1-h1 .. Rb11-b10 .. O-OT .. Rj8xBj10
+23. Kh1-i1 .. d4-e4 .. Ke14xf13 .. Rj10-j11
+24. Ki1-h1 .. Ra11xRj11 .. Kf13-g12 .. Qm8xRj11
+25. Kh1-i1 .. e4-f4 .. Kg12-g13 .. Bn9xh3
+26. Ki1xBh2 .. f4-g4+ .. Kg13-f13 .. Bh3xg4
+27. Kh2-g2 .. Qa4xBg4+ .. Kf13-f12 .. Qj11-j2+
+28. Kg2xBf1 .. Rb10-a10 .. Kf12-e12 .. Qj2xe2+#
+29. Qg4-n11+ .. Ke12xe13 .. Kn8-m8
+30. Qn11-j11+ .. Ke13-e14 .. Km8-n8
+31. Ra10-a11 .. Ke14-e13 .. Qe2xBb5
+32. Qj11-k11 .. Ke13-e14 .. l10xQk11
+33. Ra11xk11 .. Ke14-e13 .. Kn8-m8
+34. Nb8-d9 .. Ke13-f13 .. Bn6xNk3
+35. Nd9-e7 .. Kf13-f12 .. Bk3xRi5
+36. b9-d9 .. Kf12-g12 .. Bi5-f2
+37. d9xNe10 .. Kg12-g13 .. Bf2xc5
+38. e10-f10 .. Kg13-h13 .. Qb5-a4
+39. f10-g10 .. Kh13-g12 .. Qa4-a10
+40. g10-h10=D .. Kg12-f13 .. Qa10-b10+
+41. Bc7-b8 .. Kf13-e14 .. Bc5xNe7
+42. Qh10-k10+ .. Ke14-f13 .. Km8-l7
+43. Qk10-k6+#

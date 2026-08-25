@@ -1,0 +1,50 @@
+[GameNr "107629577"]
+[TimeControl "1+7"]
+[Variant "FFA"]
+[RuleVariants "DeadKingWalking EnPassant PromoteTo=D"]
+[StartFen4 "4PC"]
+[Red "domwinmill"]
+[RedElo "1500"]
+[Blue "Yangguangzaihongxiaobaima"]
+[BlueElo "1699"]
+[Yellow "Gustav-Rasmussen"]
+[YellowElo "1694"]
+[Green "angelos695"]
+[GreenElo "1491"]
+[Result "domwinmill: 11 - Yangguangzaihongxiaobaima: 49 - Gustav-Rasmussen: 26 - angelos695: 59"]
+[Termination "(Yellow +20)"]
+[Site "www.chess.com/variants/4-player-chess/game/107629577"]
+[Date "Mon Aug 24 2026 22:31:59 GMT+0000 (Coordinated Universal Time)"]
+[CurrentMove "117"]
+
+1. g2-g4 .. b7-c7+ .. Ne14-f12 .. m8-k8
+2. f2-f3 .. Na10-c9 .. e13-e12 .. k8-j8
+3. d2-d3 .. b10-c10 .. Bf14xBa9 .. j8-i8
+4. h2-h3 .. Qa8xBa9 .. Rd14-e14 .. i8-h8
+5. k2-k3 .. b5-c5 .. j13-j12 .. Nn10-l11
+6. k3-k4 .. Ba6-b5 .. i13-i12 .. h8-g8=D
+7. k4-k5 .. Na5-c6 .. Bi14-j13 .. m7-l7
+8. k5-k6+ .. b11-d11 .. h13-h12 .. Nn5-l6
+9. k6-k7 .. d11-e11 .. Nf12-h11 .. Qg8-k8
+10. Qg1xNl6+ .. c10-d10 .. Nj14-h13 .. m5xQl6
+11. d3-d4 .. Nc6xd4 .. Qh14-i13 .. Bn9-m8
+12. j2-j4 .. O-O .. d13-d11 .. Bn6xBi1
+13. Kh1xBi1 .. b8-d8 .. g13-g12 .. Qn7-n6+
+14. Ki1-h2 .. d8-e8 .. i12-i11 .. l6-k6
+15. e2-e3 .. Nd4-e6 .. Kg14-g13 .. Qk8xk7
+16. j4-j5 .. e8-f8 .. k13-k12 .. Nl11-k9
+17. h3-h4 .. Ra6-a8 .. Rk14-g14 .. O-O
+18. j5xk6 .. f8-g8 .. Kg13-h14 .. Qk7-l6+
+19. Kh2-h1 .. g8-h8=D .. Nh11-g13 .. l7xk6
+20. Rd1xd10 .. Qh8xh4+ .. Ng13-i12 .. k6-j6
+21. Nj1-h2 .. Ra11-a10 .. Kh14-i14 .. Bm8xBf1
+22. Rd10xm10+ .. Qh4xNe1 .. Nh13-g11 .. Nk9xRm10
+23. Kh1-g1 .. Qe1xe3+ .. h12-h11 .. Bf1xBb5
+24. Kg1-h1 .. Ka5xBb5 .. i11-i10 .. Qn6-n8
+25. Kh1-g2 .. Ra8xQn8 .. j12-j11 .. Ql6xRn8
+26. f3-f4 .. Ne6xf4+ .. j11-j10 .. Qn8-k5
+27. Kg2-f1R .. Qe3-e2+ .. j10-j9 .. Qk5xRk1+#
+28. Qe2xg4 .. k12-k11 .. Qk1xNc9
+29. Qa9-a8 .. k11-k10 .. Qc9-i3
+30. Qg4xNm10+# .. Bj13xQm10
+31. R

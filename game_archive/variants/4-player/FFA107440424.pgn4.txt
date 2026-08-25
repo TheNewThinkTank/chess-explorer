@@ -1,0 +1,57 @@
+[GameNr "107440424"]
+[TimeControl "1+7"]
+[Variant "FFA"]
+[RuleVariants "DeadKingWalking EnPassant PromoteTo=D"]
+[StartFen4 "4PC"]
+[Red "EduardoSantana"]
+[RedElo "1986"]
+[Blue "alfonsosantamaria"]
+[BlueElo "1685"]
+[Yellow "fafa4460"]
+[YellowElo "2246"]
+[Green "Gustav-Rasmussen"]
+[GreenElo "1575"]
+[Result "EduardoSantana: 0 - alfonsosantamaria: 0 - fafa4460: 11 - Gustav-Rasmussen: 76"]
+[Termination "(Green +40)"]
+[Site "www.chess.com/variants/4-player-chess/game/107440424"]
+[Date "Thu Aug 20 2026 21:30:45 GMT+0000 (Coordinated Universal Time)"]
+[CurrentMove "140"]
+
+1. f2-f4 .. b11-d11 .. Nj14-i12 .. m10-l10
+2. f4-f5 .. d11-e11 .. g13-g11 .. Bn9-m10
+3. f5-f6 .. e11-f11 .. e13-e12 .. m5-l5
+4. f6-f7 .. Na10-c9 .. h13-h12 .. Bn6-m5
+5. f7-f8=D .. b8-c8 .. k13-k12 .. Nn10-l9
+6. Qg1-f2 .. b7-d7 .. Bf14-g13 .. O-O
+7. Qf8-i5 .. b5-c5 .. Ne14-d12 .. m8-l8
+8. e2-e3 .. Ka7-b7T .. Nd12xf11 .. m7-l7
+9. d2-d4 .. Kb7-c6 .. O-O .. Nn5-m7
+10. d4-d5+ .. Kc6xb6 .. d13-d11 .. Rn9-n8
+11. e3-e4 .. Kb6-c7 .. d11-d10 .. Qn7-m8
+12. Qf2xc5+ .. Kc7-b7 .. d10-d9 .. Rn4-n7
+13. Qi5-f8 .. Kb7xQa8 .. Nf11-d10 .. m4-l4
+14. e4-e5 .. Ka8xBa9 .. Nd10xc8+ .. Nl9-k7
+15. Ne1-f3 .. Ka9-a8 .. Bg13-d10 .. l8-k8
+16. Qf8-h6 .. Ka8xb9 .. Bd10xQh6 .. Nk7-j9
+17. e5-e6 .. Kb9-c10 .. Qh14-d10+ .. Nm7-n9
+18. e6xd7 .. Kc10-b9 .. Nc8xb10 .. k8-j8
+19. d7-d8=D .. Kb9-a9 .. Bh6-f4+ .. j8-i8
+20. Nj1-i3 .. Ka9-b9 .. Nb10-d11 .. i8-h8
+21. Kh1-g1T .. Kb9-a8 .. Nd11-f10 .. h8-g8=D
+22. Kg1-f2 .. Ka8-b7 .. Nf10xQg8 .. Qm8xNg8
+23. Kf2xBf1 .. Kb7-c6 .. Qd10xNc9+ .. l7-k7
+24. Kf1-g1 .. Kc6-d7 .. Qc9-c8+ .. k7-j7
+25. Kg1-f2 .. Kd7-e7 .. Bi14-f11 .. j7-i7
+26. Kf2-e2 .. Ke7-f6 .. e12-e11 .. i7-h7
+27. Ke2-e1 .. Kf6-e7 .. e11-e10 .. h7-g7=D+#
+28. Ke1-f2 .. Bf4-a9 .. m6-k6
+29. Kf2-e3 .. Ba9-e13 .. k6-j6
+30. Ke3-d3 .. Bf11-e12 .. j6-i6
+31. Kd3-d2 .. f13-f11 .. i6-h6
+32. Kd2-e1 .. f11-f10 .. h6-g6=D
+33. Ke1-f1 .. e10-e9 .. Qg8-e10
+34. Kf1-f2 .. Qc8-c10 .. Qe10xQc10
+35. Kf2-e3 .. Be12xQc10 .. Qg7-g10
+36. Ke3-d2 .. e9xQd8 .. Qg10xNi12
+37. Kd2-e3 .. d8-d7=D .. Qi12xQd7
+38. Ke3-f4 .. R

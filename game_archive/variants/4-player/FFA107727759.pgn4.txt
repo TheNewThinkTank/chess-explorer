@@ -1,0 +1,50 @@
+[GameNr "107727759"]
+[TimeControl "1+7"]
+[Variant "FFA"]
+[RuleVariants "DeadKingWalking EnPassant PromoteTo=D"]
+[StartFen4 "4PC"]
+[Red "EstebanCrispin"]
+[RedElo "1978"]
+[Blue "Nanook00"]
+[BlueElo "1719"]
+[Yellow "Gustav-Rasmussen"]
+[YellowElo "1783"]
+[Green "Ethan1008"]
+[GreenElo "1782"]
+[Result "EstebanCrispin: 17 - Nanook00: 24 - Gustav-Rasmussen: 75 - Ethan1008: 23"]
+[Termination "(Yellow +60)"]
+[Site "www.chess.com/variants/4-player-chess/game/107727759"]
+[Date "Wed Aug 26 2026 21:15:02 GMT+0000 (Coordinated Universal Time)"]
+[CurrentMove "122"]
+
+1. f2-f4 .. b9-d9 .. Ne14-f12 .. m4-k4
+2. f4-f5 .. d9-e9 .. e13-e12 .. k4-j4
+3. h2-h4 .. e9-f9 .. Bf14-e13 .. m6-l6
+4. f5-f6 .. f9-g9 .. O-O .. m5-k5
+5. f6-f7 .. g9-h9=D .. j13-j12 .. m8-l8
+6. Qg1-f2 .. Qh9-j7 .. Bi14-j13 .. k5-j5
+7. f7-f8=D .. Na10-c9 .. h13-h12 .. l6-k6
+8. k2-k3 .. Qj7-d7 .. Bj13xQd7 .. j4-i4
+9. Qf8-h6 .. Nc9xBd7 .. Nj14-h13 .. m10-l10
+10. Qh6-d6 .. Nd7-c5 .. Nf12-d11 .. Bn9-m10
+11. Ne1-d3 .. b7-c7 .. Be13xRn4 .. Nn5-l6
+12. Qd6-j6 .. Ba6-b7 .. Bn4xNl6 .. m7xBl6
+13. Nd3xNc5 .. b4xNc5 .. g13-g11 .. Qn7-l7
+14. Nj1-i3 .. Na5-c6 .. Qh14-g13 .. Bm10-j13
+15. e2-e4 .. b10-c10 .. Rk14-h14 .. Bj13xNc6
+16. Qj6-f6 .. Ra11-a10 .. Nd11-e13 .. Bc6xBb7
+17. d2-d4 .. Qa8xBb7 .. i13-i11 .. m9-k9
+18. d4xc5 .. b6-c6 .. Rf14-g14 .. Nn10-l9
+19. Bi1xc7 .. Ra4xe4 .. Nh13-f12 .. Ql7-k7
+20. Bc7-b6+ .. Ka7-a6 .. h12-h11 .. Qk7xQb7+
+21. Qf6-d4 .. Ka6xQb7 .. h11-h10 .. Bn6xk3
+22. Rk1xBk3 .. Re4xQd4 .. g11-g10 .. Nl9-j8
+23. Rd1xRd4 .. b8-c8 .. g10-g9 .. k6-j6
+24. Qf2-f7+ .. Kb7-b8 .. g9-g8 .. j6-i6
+25. Qf7-g7 .. Kb8-b9 .. h10-h9 .. Kn8-m9
+26. Ni3xj5 .. c10-d10 .. h9-h8 .. Km9-m10T
+27. Qg7-m7+ .. d10-e10 .. g8-g7=D .. Km10-n9
+28. Qm7xl8 .. e10-f10 .. h8-h7=D .. Kn9-m10
+29. Rk3xk9+ .. Kb9-b8 .. Qg7xg2+ .. Km10xm11
+30. Bf1xQg2 .. b11-c11 .. Qg13xBg2+ .. Km11-m10
+31. Kh1-i1R .. T

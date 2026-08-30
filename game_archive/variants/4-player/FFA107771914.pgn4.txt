@@ -1,0 +1,59 @@
+[GameNr "107771914"]
+[TimeControl "1+7"]
+[Variant "FFA"]
+[RuleVariants "DeadKingWalking EnPassant PromoteTo=D"]
+[StartFen4 "4PC"]
+[Red "Edziu"]
+[RedElo "2000"]
+[Blue "Gustav-Rasmussen"]
+[BlueElo "1813"]
+[Yellow "erjuhecc"]
+[YellowElo "1945"]
+[Green "met_mult_plazer"]
+[GreenElo "1873"]
+[Result "Edziu: 61 - Gustav-Rasmussen: 27 - erjuhecc: 40 - met_mult_plazer: 23"]
+[Termination "(Blue +20)"]
+[Site "www.chess.com/variants/4-player-chess/game/107771914"]
+[Date "Thu Aug 27 2026 19:19:44 GMT+0000 (Coordinated Universal Time)"]
+[CurrentMove "143"]
+
+1. f2-f3 .. Na5-c6 .. Nj14-i12 .. m8-k8
+2. g2-g4 .. b5-c5 .. h13-h11 .. k8-j8
+3. Bf1xBn9 .. Ba6-b5 .. h11-h10 .. Kn8xBn9
+4. g4-g5 .. O-O .. h10-h9 .. Nn10-l9
+5. d2-d3 .. b10-c10 .. h9-h8 .. j8-i8
+6. g5-g6 .. Ba9-b10 .. d13-d12 .. m7-k7
+7. f3-f4 .. b8-c8 .. g13-g12 .. Nn5-l6
+8. f4-f5 .. Na10-b8 .. Ne14-g13 .. m11-l11
+9. f5-f6 .. Bb10xf6 .. e13-e12 .. m10-k10
+10. Qg1-f1+ .. Bf6-b10 .. Bf14-e13 .. Kn9-m10
+11. h2-h4 .. b7-c7 .. k13-k12 .. Qn7-m7
+12. Qf1-k6 .. Qa8-b7 .. O-O .. Rn11-n8
+13. Bi1-h2 .. Bb10xh4 .. j13-j11 .. k10-j10
+14. Bh2-i3 .. Bh4xBi3 .. k12xl11+ .. Km10-m11
+15. Nj1xBi3 .. Ra6-a7 .. Ni12-k11 .. Nl9xNk11
+16. O-O .. Ra11-a8 .. Rk14xNk11 .. j10-i10
+17. Ne1-g2 .. b9-d9 .. j11xi10 .. Qm7xNg13
+18. Ri1-h1 .. c8-d8 .. l11-l10+ .. Km11xl10
+19. g6-g7 .. d8-e8 .. Rk11-l11+ .. Kl10-k9
+20. g7xh8=D .. c7-d7 .. Qh14-g14 .. Qg13xQg14
+21. Qh8xi8 .. d7-e7 .. Rf14xQg14 .. Rn8xQi8
+22. Qk6xRi8 .. e7-f7 .. Be13xk7 .. Bn6-m7
+23. Qi8xi10 .. e8-f8 .. Rl11-k11+ .. Kk9-l9
+24. Qi10xi13 .. f7-g7 .. Rk11-k14 .. Rn4-n11
+25. Qi13-i12+ .. f8-g8 .. Bk7-e13 .. Kl9-l8
+26. Qi12xRk14 .. g7-h7=D .. Bi14-m10 .. Rn11xb11
+27. Qk14xRg14+ .. g8-h8=D+ .. Be13-f14+#
+28. k2-k4 .. Nc6-d4 .. Ke14-e13
+29. e2-e4 .. c10-d10 .. Bm10xRd1
+30. Rh1xBd1 .. d9-e9 .. g12-g11
+31. Qg14xg11+ .. e9-f9 .. Ke13-e14
+32. Rd1-f1 .. f9-g9 .. Bf14-e13
+33. Qg11-g14+ .. g9-h9=D .. Ke14-d13
+34. Qg14xf13 .. d10-e10 .. Kd13-d14
+35. Qf13-g13 .. e10-f10 .. Kd14-d13
+36. j2-j3 .. f10-g10 .. Kd13-d14
+37. Rf1-f13 .. g10-h10=D .. d12-d11
+38. Rf13xBe13 .. Nb8-c6 .. d11-d10
+39. Qg13-f14+# .. Nc6-e5
+40. R
